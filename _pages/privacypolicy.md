@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-May 13 2025
+May 20 2025
 
 # Privacy Policy
 We take your privacy very seriously. Your data is entirely your own, and we don’t make any claims to it. Our commitment is to use your data strictly in accordance with the policies outlined below. If you ever want to remove any stored data, you can do so easily from within the app.
@@ -42,6 +42,7 @@ If you ever want to remove any stored data, you can do so easily from within the
 
 Your data is immediately and permanently deleted.
 
+<!--
 ### 2.1 Third Parties we collect information from
 Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
 
@@ -49,7 +50,7 @@ Various remotely save this querulously explicitly one this and far congenially b
 | :--- | :--- |
 | Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
 | Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
+-->
 <br>
 
 Updates to This Policy
